@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 -->
 Portfólio:https://lucasmartins-portfolio.azurewebsites.net/projects
 
+Linkedin :https://www.linkedin.com/in/lucas-martins/
