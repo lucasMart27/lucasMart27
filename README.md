@@ -1,23 +1,21 @@
+
 ### Hi there 👋
 
-<!--
-**lucasMart27/lucasMart27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-.Net
-<h1 align = "center" >Seja bem vindo </h1>
-Here are some ideas to get you started:
+<a href="https://www.instagram.com/lucas.mart27/" target="_blank">
+  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+</a><br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 <a href="https://github.com/lucasMart27" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
 
-Portfólio:https://lucasmartins-portfolio.azurewebsites.net/projects
 
-Linkedin :https://www.linkedin.com/in/lucas-martins/
+
+
+
+
+
+
+Portfólio:https://lucasmartins-portfolio.azurewebsites.net/projects
