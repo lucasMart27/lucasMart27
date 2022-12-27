@@ -10,7 +10,7 @@
 
 <a href="https://github.com/lucasMart27" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" 
-       width="70px" height="48px">
+       width="50px" height="48px">
 </a><br />
 
 
