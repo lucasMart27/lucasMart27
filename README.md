@@ -47,5 +47,4 @@ Portfólio: https://lucasmartins-portfolio.azurewebsites.net/projects
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
-<img src="https://github.com/dnmfarrell/Perl-Icons/blob/master/Icons/Perl_Onion_Color.svg" alt="perl" width="40" height="40" />
 </p>
