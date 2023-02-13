@@ -23,7 +23,6 @@ Portfólio: https://lucasmartins-portfolio.azurewebsites.net/projects
 
 
 
-
 **Linguagens e ferramentas:**  
 
 <p align="left">
