@@ -18,9 +18,7 @@ Meus interesses pessoais:
        width="50px" height="48px">
 </a><br />
 
-
 Portfólio: https://lucasmartins-portfolio.azurewebsites.net/projects
-
 
 
 **Linguagens e ferramentas:**  
