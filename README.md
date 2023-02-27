@@ -10,7 +10,7 @@
 
 Meus interesses pessoais:
 
-👩‍💻 Estou estudando React Native com
+👩‍💻 Estou estudando React Native com typescript.
 <hr />
 <a href="https://www.instagram.com/lucas.mart27/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png"
