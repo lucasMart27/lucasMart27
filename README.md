@@ -1,6 +1,7 @@
 
 <h1 align="center"> Sejam bem-vindos!</h1>
 <p align="left">
+  
 - 📚 Atualmente Estou estudando Front-end!
   
 - 🌱 Aprendendo Javascript!
