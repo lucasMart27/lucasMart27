@@ -1,6 +1,7 @@
 
 <h1 align="center"> Sejam bem-vindos!</h1>
 <p align="left">
+ 
   
   
 - 📚 Atualmente Estou estudando Front-end e backend!
@@ -9,7 +10,9 @@
   
 - ⚡ Disposto a ajudar projetos, E evoluir cada dia!📈
 
-Meus interesses pessoais:
+
+  
+  Meus interesses pessoais:
 
 👩‍💻 Estou estudando React Native com typescript.
 <hr />
@@ -24,6 +27,7 @@ Meus interesses pessoais:
 </a><br />
 
 Portfólio: https://lucasmartins-portfolio.azurewebsites.net/projects
+
 
 
 **Linguagens e ferramentas:**  
