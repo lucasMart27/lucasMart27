@@ -4,7 +4,7 @@
  
   
   
-- 📚 Atualmente Estou estudando Front-end e backend!
+- 📚 Atualmente Estou estudando Developer Mobile!
   
 - 🌱 Aprendendo Javascript!
   
