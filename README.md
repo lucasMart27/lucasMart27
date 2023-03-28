@@ -3,7 +3,6 @@
 <p align="left">
  
   
-  
 - 📚 Atualmente Estou estudando Developer Mobile!
   
 - 🌱 Aprendendo Javascript!
@@ -29,7 +28,6 @@
 </a><br />
 
 Portfólio: https://lucasmartins-portfolio.azurewebsites.net/projects
-
 
 
 **Linguagens e ferramentas:**  
