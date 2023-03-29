@@ -1,7 +1,6 @@
 
 <h1 align="center"> Sejam bem-vindo!</h1>
 <p align="left">
- 
   
 - 📚 Atualmente Estou estudando Developer Mobile!
   
@@ -10,8 +9,6 @@
 - ⚡ Disposto a ajudar projetos, E evoluir cada dia! 📈
  
  💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
-
-
   
   Meus interesses pessoais:
 
@@ -28,7 +25,6 @@
 </a><br />
 
 Portfólio: https://lucasmartins-portfolio.azurewebsites.net/projects
-
 
 **Linguagens e ferramentas:**  
 
