@@ -4,7 +4,7 @@
   
 - 📚 Atualmente Estou estudando Developer Mobile!
   
-- 🌱 Aprendendo Javascript! 💼 📈
+- 🌱 Aprendendo Javascript! 
   
 - ⚡ Disposto a ajudar projetos, E evoluir cada dia!  📈
  
