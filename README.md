@@ -10,6 +10,7 @@
  
  💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
   
+  
   Meus interesses pessoais:
 
 👩‍💻 Estou estudando React Native com typescript.
@@ -26,7 +27,7 @@
 
 Portfólio: https://lucasmartins-portfolio.azurewebsites.net/projects
 
-**Linguagens e ferramentas:**  
+**Linguagens e ferramentas:** 
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
