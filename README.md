@@ -2,6 +2,8 @@
 <h1 align="center"> Sejam bem-vindo!!!</h1>
 <p align="left">
   
+  
+  
 - 📚 Atualmente Estou estudando Developer Mobile!
   
 - 🌱 Aprendendo Javascript! 
@@ -11,8 +13,11 @@
  💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
   
   
+  
   Meus interesses pessoais:
 
+  
+  
 👩‍💻 Estou estudando React Native com typescript.
 <hr />
 <a href="https://www.instagram.com/lucas.mart27/" target="_blank">
@@ -26,6 +31,9 @@
 </a><br />
 
 Portfólio: https://lucasmartins-portfolio.azurewebsites.net/projects
+
+
+
 
 **Linguagens e ferramentas:** 
 
