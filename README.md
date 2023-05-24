@@ -2,14 +2,19 @@
 <h1 align="center"> Sejam bem-vindo!!!</h1>
 <p align="left">
   
-- 📚 Atualmente Estou estudando Developer Mobile!
+- 📚 Atualmente Estou estudando React Native!
   
 - 🌱 Aprendendo Javascript! 
   
 - ⚡ Disposto a ajudar projetos, E evoluir cada dia!  📈
+  
+  
+  
  
  💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
   
+  
+
   Meus interesses pessoais:
 
   
