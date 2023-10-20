@@ -30,6 +30,24 @@
        width="50px" height="48px">
 </a><br />
 
+
+## Olá, sou Lucas Mart!
+
+- 👨‍💻 Desenvolvedor de React Native
+- 🌱 Aprendendo Javascript e Typescript
+- ⚡ Disposto a contribuir para projetos e evoluir a cada dia!
+
+💼 Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir na minha carreira.
+
+### Meus Interesses Pessoais:
+
+- 💻 Estou estudando React Native com Typescript.
+
+### Meus Links:
+
+- [Instagram](https://www.instagram.com/lucas.mart27/)
+- [GitHub](https://github.com/lucasMart27)
+
 Portfólio: https://lucasmartins-portfolio.azurewebsites.net/projects
 
 
