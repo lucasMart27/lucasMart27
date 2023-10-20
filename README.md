@@ -1,35 +1,4 @@
 
-<h1 align="center"> Sejam bem-vindo!!!</h1>
-<p align="left">
-  
-- 📚 Atualmente Estou estudando React Native!
-  
-- 🌱 Aprendendo Javascript! 
-  
-- ⚡ Disposto a ajudar projetos, E evoluir cada dia!  📈
-  
-  
-  
- 
- 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
-  
-  
-
-  Meus interesses pessoais:
-
-  
-💻 Estou estudando React Native com typescript.
-<hr />
-<a href="https://www.instagram.com/lucas.mart27/" target="_blank">
-  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png"
-       width="50px" height="48px">
-  
-</a><br />
-<a href="https://github.com/lucasMart27" target="_blank">
-  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" 
-       width="50px" height="48px">
-</a><br />
-
 
 ## Olá, sou Lucas Mart!
 
