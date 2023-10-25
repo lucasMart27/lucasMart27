@@ -14,8 +14,8 @@
 
 ### Meus Links:
 
-- [Instagram](https://www.instagram.com/lucas.mart27/)
-- [GitHub](https://github.com/lucasMart27)
+- [Instagram](https://www.instagram.com/lucas_mart27/)
+
 
 Portfólio: https://lucasmartins-portfolio.azurewebsites.net/projects
 
