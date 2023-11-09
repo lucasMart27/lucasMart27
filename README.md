@@ -1,6 +1,6 @@
 
 
-## Olá, sou Lucas Mart!
+## Olá, sou Lucas Martins!
 
 - 👨‍💻 Desenvolvedor de React Native
 - 🌱 Aprendendo Javascript e Typescript
