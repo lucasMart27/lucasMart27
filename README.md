@@ -1,6 +1,6 @@
 
 
-## Hello, I'm Lucas Martins!
+## Hello, I'm Lucas!
 
 - 👨‍💻 Desenvolvedor de React Native
 - 🌱 Aprendendo Javascript e Typescript
