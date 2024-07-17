@@ -10,7 +10,9 @@ Hello, I'm Lucas!
 Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir na minha carreira.
 
 Meus Interesses Pessoais:
+
 💻 Estudando React Native com Typescript.
+
 🌐 Focado em desenvolvimento front-end com React.
 
 ### Meus Links:
