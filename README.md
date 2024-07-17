@@ -1,16 +1,17 @@
 
 
-## Hello, I'm Lucas!
+Hello, I'm Lucas!
+👨‍💻 Desenvolvedor de React Native e React
 
-- 👨‍💻 Desenvolvedor de React Native
-- 🌱 Aprendendo Javascript e Typescript
-- ⚡ Disposto a contribuir para projetos e evoluir a cada dia!
+🌱 Aprendendo: Javascript e Typescript
 
-💼 Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir na minha carreira.
+⚡ Objetivo: Contribuir para projetos e evoluir a cada dia!
 
-### Meus Interesses Pessoais:
+Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir na minha carreira.
 
-- 💻 Estou estudando React Native com Typescript.
+Meus Interesses Pessoais:
+💻 Estudando React Native com Typescript.
+🌐 Focado em desenvolvimento front-end com React.
 
 ### Meus Links:
 
