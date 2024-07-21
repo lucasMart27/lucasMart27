@@ -3,7 +3,7 @@
 Hello, I'm Lucas!
 👨‍💻 Desenvolvedor de React Native e React
 
-🌱 Aprendendo: Javascript e Typescript
+🌱 Aprendendo: Javascript , Typescript e React.
 
 ⚡ Objetivo: Contribuir para projetos e evoluir a cada dia!
 
