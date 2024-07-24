@@ -11,7 +11,7 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir na minh
 
 Meus Interesses Pessoais:
 
-💻 Estudando React Native com Typescript.
+💻 Estudando React Native, react com Typescript.
 
 🌐 Focado em desenvolvimento front-end com React.
 
