@@ -15,10 +15,8 @@ Meus Interesses Pessoais:
 
 🌐 Focado em desenvolvimento front-end com React.
 
-### Meus Links:
-
+### Meus Links:\
 - [Instagram](https://www.instagram.com/lucas_mart27/)
-
 
 Portfólio: https://lucasmartins-portfolio.azurewebsites.net/projects
 
