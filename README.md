@@ -1,7 +1,8 @@
 
 
 Hello, I'm Lucas!
-👨‍💻 Desenvolvedor de React Native e React
+
+👨‍💻 Desenvolvedor de React Native e React, Next.js
 
 🌱 Aprendendo: Javascript , Typescript e React.
 
